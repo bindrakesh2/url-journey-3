@@ -1,4 +1,6 @@
 fastapi
 gunicorn
 uvicorn[standard]
-httpx[http2]
+playwright
+validators
+ipaddress
